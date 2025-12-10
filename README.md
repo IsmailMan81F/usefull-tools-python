@@ -15,14 +15,16 @@
 > You find the result files in the desktop, you can modify the path if you want
 
 ## SCREENTSHOTS FROM THE TOOLS :
-
+### Extractor : 
 ![extractor](./extractor.png)
+
+### Converter : 
 ![converter](./converter.png)
 
 ## HOW TO USE :
 ### Clone the repository : 
 ```bash
-git clone ...
+git clone https://github.com/IsmailMan81F/usefull-tools-python.git
 ```
 ### Run the programs :
 > .exe programs (No setup)
