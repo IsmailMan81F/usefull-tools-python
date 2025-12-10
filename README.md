@@ -16,6 +16,13 @@
 
 ## SCREENTSHOTS FROM THE TOOLS :
 
-![extractor]()
-![converter]()
-![colorPicker]()
+![extractor](./extractor.png)
+![converter](./converter.png)
+
+## HOW TO USE :
+### Clone the repository : 
+```bash
+git clone ...
+```
+### Run the programs :
+> .exe programs (No setup)
